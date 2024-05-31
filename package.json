@@ -4,6 +4,7 @@
   "description": "Hello from SessionBear!",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"No build process setup as of now\" && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
